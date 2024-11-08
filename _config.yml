@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Mahdis"
-  avatar           : # "Profile_pic2.png"
+  avatar           : "profile.png"
   bio              : "Computer Science Student" # "Multi-Modal Learning \n under Prof. Marcus Rohrbach"
   location         : # "Berlin/ Darmstadt, Germany"
   employer         : # "TU Darmstadt"
