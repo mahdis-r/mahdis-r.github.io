@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-# 👋🏼 Hello there, I’m Mahdis!
 
 I hold a Bachelor’s in Computer Science, where I focused on Object Detection for my thesis. I am passionate about harnessing the power of technology to solve real-world problems.
 
