@@ -14,10 +14,10 @@ I hold a Bachelor’s in Computer Science, where I focused on Object Detection f
 
 ## 🔬 Research Interests
 My research interests lie in:
-- **Machine Learning:** 
-- **Generative AI:** 
-- **Natural Language Processing:** 
-- **Distributed Systems:**
+- **Machine Learning** 
+- **Generative AI** 
+- **Natural Language Processing** 
+- **Distributed Systems**
 
 
 ## 👨🏻‍🔬 Professional Experience
